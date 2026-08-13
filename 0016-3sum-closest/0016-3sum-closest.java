@@ -12,7 +12,7 @@ class Solution {
            while(j<k && k>i && j<nums.length){
              int sum=nums[i]+nums[j]+nums[k];
              int sum2=nums[i]+nums[j]+nums[k]-target;
-             if(Math.abs(sum2)<min){
+             if(min!=Math.abs(sum2) && Math.abs(sum2)<min ){
                       min=Math.abs(sum2);
                       fsum=sum;
              }
