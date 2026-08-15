@@ -17,6 +17,7 @@ class Solution {
                 n=n^nums[j];
                 if(n!=0){
                   maxl=nums.length-1;
+                  break;
                 }
                 else{
                       n=n^nums[j];
