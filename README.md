@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0152-maximum-product-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
