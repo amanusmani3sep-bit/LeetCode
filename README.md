@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
