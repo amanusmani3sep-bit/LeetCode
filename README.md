@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0020-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
