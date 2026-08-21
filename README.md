@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
