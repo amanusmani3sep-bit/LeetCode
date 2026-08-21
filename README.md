@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1389-create-target-array-in-the-given-order](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Monotonic Stack
 |  |
