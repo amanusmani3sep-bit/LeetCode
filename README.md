@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1922-count-good-numbers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
