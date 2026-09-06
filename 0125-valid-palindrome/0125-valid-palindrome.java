@@ -10,12 +10,6 @@ class Solution {
                 j-=1;
             }
             
-        //  if (!Character.isLetterOrDigit(s.charAt(i))) {
-        //      i+=1;
-        //  }
-        //  if (!Character.isLetterOrDigit(s.charAt(j))) {
-        //      j-=1;
-        //  }
             if (i <= j && (Character.toLowerCase(s.charAt(i)) != Character.toLowerCase(s.charAt(j)))) 
              {
               return false;
