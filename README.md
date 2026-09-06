@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0125-valid-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
