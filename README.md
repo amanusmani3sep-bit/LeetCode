@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1922-count-good-numbers) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
