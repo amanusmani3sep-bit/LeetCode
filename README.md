@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1389-create-target-array-in-the-given-order](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -75,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0035-search-insert-position) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
