@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0125-valid-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
