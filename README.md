@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0125-valid-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1518-water-bottles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
