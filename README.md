@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
