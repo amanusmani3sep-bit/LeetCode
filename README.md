@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0231-power-of-two) |
+| [0507-perfect-number](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1518-water-bottles](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1518-water-bottles) |
 | [1922-count-good-numbers](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1922-count-good-numbers) |
