@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0283-move-zeroes) |
+| [0896-monotonic-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0896-monotonic-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
