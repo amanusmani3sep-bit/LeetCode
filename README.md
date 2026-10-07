@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0896-monotonic-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
@@ -185,4 +188,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0048-rotate-image) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
