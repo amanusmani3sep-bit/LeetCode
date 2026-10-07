@@ -30,14 +30,14 @@ class Solution {
             if(mid<nums.length-1 && nums[mid]>nums[mid+1]){
                 return mid;
             }
-            else if(mid>0 && nums[mid]<nums[mid-1]){
-                return mid-1;
-            }
+            // else if(mid>0 && nums[mid]<nums[mid-1]){
+            //     return mid-1;
+            // }
             else if(nums[mid]<nums[0]){
-                j=j-1;
+                j=mid-1;
             }
             else{
-                i+=1;
+                i=mid+1;
                 }
             
         }
