@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0018-4sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
