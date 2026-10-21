@@ -19,8 +19,8 @@ public class Solution {
         }
         ListNode temp=head;
         List<ListNode> a=new ArrayList<>();
-        while(temp.next!=null){
-            if(a.contains(temp.next)){
+        while(temp!=null){
+            if(a.contains(temp)){
                 return true;
             }
             else{
