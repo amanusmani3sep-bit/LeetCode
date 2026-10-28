@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
 |  |
 | ------- |
