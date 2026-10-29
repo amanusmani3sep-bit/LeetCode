@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0148-sort-list) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
