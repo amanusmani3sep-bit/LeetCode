@@ -1,21 +1,13 @@
 class MinStack {
     long min=Long.MAX_VALUE;
     Stack<Long> s=null;
-    // Stack<Integer> min=null;
+
     
     public MinStack() {
         s=new Stack<>();
-
-        // min=new Stack<>();
     }
     
     public void push(int value) {
-        // if(min.isEmpty()){
-        //     min.push(value);
-        // }
-        // else if(min.peek()>=value){
-        //     min.push(value);
-        // }
         if(min>value){
           s.push(2L*value-min);
           min=value;
