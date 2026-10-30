@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -243,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
