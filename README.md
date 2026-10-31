@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amanusmani3sep-bit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
